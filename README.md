@@ -4,6 +4,7 @@
 ### Hi there 👋 My name is Geoffrey
 
 Thank you for visiting my Github Profile
+
 A skilled Web Applications Engineer, renowned for crafting cutting-edge web solutions.
 
 Feedback is always welcome!
