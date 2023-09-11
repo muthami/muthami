@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Laravel, Node, VueJS and general problem solving ideas
 - 😄 Pronouns: MR
 - ⚡ Fun fact: I enjoy traveling and discovering new places 🛫 🌎
--->
+
