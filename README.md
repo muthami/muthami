@@ -1,3 +1,6 @@
+
+![alt Cover Image](https://github.com/muthami/muthami/blob/main/Screenshot%20from%202023-09-11%2014-41-32.png)
+
 ### Hi there 👋 My name is Geoffrey
 
 Thank you for visiting my Github Profile
