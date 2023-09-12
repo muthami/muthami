@@ -1,5 +1,5 @@
 
-![alt Cover Image](https://github.com/muthami/muthami/blob/main/Screenshot%20from%202023-09-11%2014-41-32.png)
+![alt Cover Image](https://github.com/muthami/muthami/blob/main/piiiic.jpg)
 
 ### Hi there 👋 My name is Geoffrey
 
