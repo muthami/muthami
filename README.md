@@ -10,9 +10,9 @@ A skilled Web Applications Engineer, renowned for crafting cutting-edge web solu
 Feedback is always welcome!
 
 - 🔭 I’m currently working on few projects using [Vue](https://vuejs.org/), [React](https://react.dev/), [Laravel](https://laravel.com/) and [Node](https://nodejs.org/en)
-- 🌱 I’m currently learning [Node](https://nodejs.org/en) and Python and how to swim 😄
+- 🌱 I’m currently learning [Node](https://nodejs.org/en),Python and NoSQL databases
 - 👯 I’m looking to collaborate on Javascript, Kubernetes, Docker React and Laravel
-- 🌐 Contributing to the developer community and pushing the boundaries of innovation.
+- 🌐 My goal is to continue solving problems using technology and contribute to the developer community while pushing the boundaries of innovation.
   
 - 💬 Ask me about:
   - Laravel
